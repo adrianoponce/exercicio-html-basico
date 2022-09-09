@@ -1,2 +1,2 @@
 # exercicio-html-basico
- Comandos básicos do HTML
+ Repositório com exercícios de html básico
